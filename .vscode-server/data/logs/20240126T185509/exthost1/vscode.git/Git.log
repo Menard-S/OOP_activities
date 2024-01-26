@@ -1,0 +1,66 @@
+2024-01-26 18:55:11.395 [info] Log level: Info
+2024-01-26 18:55:11.395 [info] Validating found git in: "git"
+2024-01-26 18:55:11.395 [info] Using git "2.34.1" from "git"
+2024-01-26 18:55:11.395 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-26 18:55:11.395 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 18:55:11.395 [info] > git rev-parse --show-toplevel [26ms]
+2024-01-26 18:55:11.396 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-26 18:55:11.405 [info] Open repository: /home/msegfilph/.asdf
+2024-01-26 18:55:11.416 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-26 18:55:11.416 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 18:55:11.417 [info] > git config --get commit.template [6ms]
+2024-01-26 18:55:11.424 [info] > git rev-parse --show-toplevel [5ms]
+2024-01-26 18:55:11.424 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 18:55:11.429 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 18:55:11.429 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 18:55:11.435 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [11ms]
+2024-01-26 18:55:11.441 [info] > git rev-parse --show-toplevel [7ms]
+2024-01-26 18:55:11.441 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 18:55:11.484 [info] > git status -z -uall [45ms]
+2024-01-26 18:55:11.494 [info] > git config --get commit.template [0ms]
+2024-01-26 18:55:11.498 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2024-01-26 18:55:11.505 [info] > git status -z -uall [4ms]
+2024-01-26 18:55:11.944 [info] > git check-ignore -v -z --stdin [0ms]
+2024-01-26 18:58:23.310 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 18:58:23.310 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 19:27:31.035 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 19:27:31.035 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 19:27:39.430 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 19:27:39.430 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 19:29:01.485 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 19:29:01.485 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 19:29:12.251 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 19:29:12.251 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 19:29:33.415 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-26 19:29:33.415 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-26 19:30:42.328 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-26 19:30:42.334 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-26 19:30:42.342 [info] Open repository: /home/msegfilph
+2024-01-26 19:30:42.350 [info] No remotes found in the git config file.
+2024-01-26 19:30:42.351 [info] > git config --get commit.template [5ms]
+2024-01-26 19:30:42.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-26 19:30:42.390 [info] > git status -z -uall [35ms]
+2024-01-26 19:30:42.414 [info] > git config --get commit.template [1ms]
+2024-01-26 19:30:42.416 [info] No remotes found in the git config file.
+2024-01-26 19:30:42.417 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-26 19:30:42.424 [info] > git status -z -uall [4ms]
+2024-01-26 19:30:42.810 [info] > git show --textconv :workspace/Abstraction.rb [7ms]
+2024-01-26 19:30:42.811 [info] > git ls-files --stage -- /home/msegfilph/workspace/Abstraction.rb [2ms]
+2024-01-26 19:30:42.870 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-26 19:30:42.871 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-26 19:30:44.626 [info] No remotes found in the git config file.
+2024-01-26 19:30:44.626 [info] > git config --get commit.template [4ms]
+2024-01-26 19:30:44.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-01-26 19:30:44.634 [info] > git status -z -uall [5ms]
+2024-01-26 19:30:52.769 [info] > git config --get commit.template [1ms]
+2024-01-26 19:30:52.780 [info] No remotes found in the git config file.
+2024-01-26 19:30:52.781 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-26 19:30:52.796 [info] > git status -z -uall [10ms]
+2024-01-26 19:30:57.823 [info] No remotes found in the git config file.
+2024-01-26 19:30:57.823 [info] > git config --get commit.template [3ms]
+2024-01-26 19:30:57.824 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-26 19:30:57.832 [info] > git status -z -uall [6ms]
+2024-01-26 19:31:07.551 [info] No remotes found in the git config file.
+2024-01-26 19:31:07.552 [info] > git config --get commit.template [5ms]
+2024-01-26 19:31:07.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-01-26 19:31:07.563 [info] > git status -z -uall [6ms]
