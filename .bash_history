@@ -181,3 +181,21 @@ postgres psql
 "postgres --help
 how to connect to database
 clear
+sudo service mysql start
+mysql -- version
+psql --version
+sudo service psql start
+sudo service postgresq1 status
+sudo service postgres status
+clear
+sudo -u postgres psql
+psql --version
+sudo service postgresql start
+sudo -u postgres psql
+clear
+sudo apt-get remove --purge postgresql
+sudo apt-get install postgresql postgresql-contrib
+sudo service postgresql start
+sudo service postgresql status
+sudo -u postgres psql
+psql -U msegfilph -d default

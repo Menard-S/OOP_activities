@@ -22,18 +22,8 @@ WHERE id = 1;
 DELETE FROM students
 WHERE id = 6;
 
---Alternative, if the ID of the last record is unknown
 --DELETE FROM students
 --WHERE id = (SELECT max(id) FROM students);
 
---Display the count of all students
 SELECT COUNT(*) FROM students;
-
---Select all students located in Manila
-SELECT * FROM students WHERE location = 'Manila';
-
---Display the average age of all students
-SELECT AVG(age) FROM students;
-
---Display all students by age, descending order
-SELECT * FROM students ORDER by age DESC;
+SELECT * FROM students WHERE location = 
