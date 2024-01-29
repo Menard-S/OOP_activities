@@ -5,34 +5,34 @@ class Car
     end
   
     def start
-        @speed = 0
-      puts "Car is starting."
+        # @speed = 0
+      puts "You will now start driving."
       describe_car
     end
   
     def drive(speed)
-        @speed = speed
+        # @speed = speed
       puts "Drive carefully!"
       describe_car
     end
   
     def stop
-        @speed = 0
-      puts "Car has stopped."
+        # @speed = 0
+      puts "Thanks for driving!"
       describe_car
     end
   
     private
   
     def describe_car
-        @speed = 0 if @speed.nil?
+      
       puts "This is a #@make #@model, current speed is #@speed kph"
     end
   end
   
   
-  my_car = Car.new("Toyota", "Camry")
+  my_car = Car.new("Nissan", "Sentra")
   my_car.start 
-  my_car.drive(60)
+  my_car.drive(180)
   my_car.stop
   

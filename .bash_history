@@ -130,3 +130,54 @@ cd workspace
 ruby Object.rb
 cd workspace
 ruby Abstraction.rb
+git init
+git status
+git add -A
+git commit -m “Jan 26 activities (Inheritance, Encapsulation, Abstraction”
+git commit -m “Jan 26 activities for Inheritance, Encapsulation, Abstraction”
+git remote add origin https://github.com/Menard-S/OOP_activities.git
+git commit -m “Jan 26 activities for Inheritance, Encapsulation, Abstraction”
+git remote set-url origin https://github.com/Menard-S/OOP_activities.git
+git commit -m "Jan 26 activities for Inheritance, Encapsulation, Abstraction"
+git config --global user.email "menard.seguenza@gmail.com"
+git config --global user.name "Menard.S"
+git commit -m "Jan 26 activities for Inheritance, Encapsulation, Abstraction"
+git add *.rb
+git push origin master
+which postgres
+psql -u
+cd
+pg_ctl start
+whoami
+ruby Confection.rb
+cd workspace
+ruby Confection.rb
+cd workspace
+clear
+ruby AdminPermission.rb
+ruby Abstraction.rb
+ruby Confection.rb
+ruby Abstraction.rb
+clear
+ruby Abstraction.rb
+clear
+ruby Abstraction.rb
+clear
+ruby Abstraction.rb
+ruby Polymorphism.rb
+ruby Abstraction.rb
+ruby Polymorphism.rb
+whoami
+sudo service postgresql start
+sudo -u postgres psql
+sudo service postgresql start
+cd
+clear
+psql --command="\du"
+clear
+sudo -u postgres psql
+-u postgres psql
+postgres psql
+"postgres --help
+how to connect to database
+clear

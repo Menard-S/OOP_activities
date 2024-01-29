@@ -1,70 +1,17 @@
-2024-01-26 18:55:11.086 [info] Extension host with pid 472 started
-2024-01-26 18:55:11.094 [info] Lock '/home/msegfilph/.vscode-server/data/User/workspaceStorage/343a70f2656c8f3d0b1c523a74f2ade7/vscode.lock': Lock acquired.
-2024-01-26 18:55:11.134 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-01-26 18:55:11.192 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-01-26 18:55:11.192 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-01-26 18:55:11.339 [info] Eager extensions activated
-2024-01-26 18:55:11.339 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-01-26 18:55:11.340 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2024-01-26 18:58:23.290 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-01-26 19:30:42.404 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1306
-2024-01-26 19:30:42.435 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1306
-2024-01-26 19:30:44.642 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1306
-2024-01-26 19:30:52.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1306
-2024-01-26 19:30:57.840 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1306
-2024-01-26 19:31:07.571 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1306
-2024-01-26 19:31:14.152 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:19.187 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:24.222 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:29.260 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:34.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:39.322 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:44.357 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:46.935 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
-2024-01-26 19:31:49.388 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:54.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:31:59.452 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:04.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:09.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:14.556 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:19.587 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:24.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:29.644 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:44.456 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:32:49.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:34:28.857 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:05.662 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:10.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:15.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:20.761 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:27.750 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:32.783 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:37.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:42.844 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:47.883 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:35:52.914 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:36:25.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:36:32.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:36:42.057 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:36:47.092 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:36:52.129 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:36:57.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:21.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:26.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:31.099 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:36.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:41.163 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:46.200 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:51.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:37:56.266 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1307
-2024-01-26 19:38:01.298 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1308
-2024-01-26 19:38:06.332 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1308
-2024-01-26 19:38:11.365 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1308
-2024-01-26 19:38:19.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1308
-2024-01-26 19:38:24.846 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1308
-2024-01-26 21:20:53.758 [info] Extension host terminating: received terminate message from renderer
-2024-01-26 21:20:53.760 [info] Lock '/home/msegfilph/.vscode-server/data/User/workspaceStorage/343a70f2656c8f3d0b1c523a74f2ade7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
-2024-01-26 21:20:53.803 [error] Canceled: Canceled
+2024-01-27 09:06:53.530 [info] Extension host with pid 514 started
+2024-01-27 09:06:53.540 [info] Lock '/home/msegfilph/.vscode-server/data/User/workspaceStorage/343a70f2656c8f3d0b1c523a74f2ade7/vscode.lock': Lock acquired.
+2024-01-27 09:06:53.593 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-27 09:06:53.620 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-27 09:06:53.629 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-27 09:06:53.629 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-27 09:06:53.839 [info] Eager extensions activated
+2024-01-27 09:06:53.839 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 09:06:53.839 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-27 10:07:33.620 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-01-27 12:24:42.692 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-01-27 13:32:17.732 [info] Extension host terminating: received terminate message from renderer
+2024-01-27 13:32:17.732 [info] Lock '/home/msegfilph/.vscode-server/data/User/workspaceStorage/343a70f2656c8f3d0b1c523a74f2ade7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-27 13:32:17.787 [error] Canceled: Canceled
 	at new g (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -117,7 +64,7 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-26 21:20:53.804 [error] Canceled: Canceled
+2024-01-27 13:32:17.788 [error] Canceled: Canceled
 	at new g (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -170,7 +117,7 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-26 21:20:53.804 [error] Canceled: Canceled
+2024-01-27 13:32:17.789 [error] Canceled: Canceled
 	at new g (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
 	at u.U (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
 	at P.<computed>.j.charCodeAt.P.<computed> (/home/msegfilph/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
@@ -225,4 +172,4 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-01-26 21:20:53.804 [info] Extension host with pid 472 exiting with code 0
+2024-01-27 13:32:17.789 [info] Extension host with pid 514 exiting with code 0

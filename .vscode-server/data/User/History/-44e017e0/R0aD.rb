@@ -1,11 +1,12 @@
 #Polymorphism by inheritance
 class Animal
     def speak
-      "Undefined!"
+      "Welcome to Manila Zoo"
     end
   end
   
   class Bird < Animal
+    super
     def speak
       "Tweet!"
     end

@@ -7,3 +7,5 @@
 2024-01-26 18:55:10.307 [info] [127.0.0.1][e72510dc][ManagementConnection] New connection established.
 2024-01-26 18:55:10.706 [info] [127.0.0.1][8599e614][ExtensionHostConnection] New connection established.
 2024-01-26 18:55:10.709 [info] [127.0.0.1][8599e614][ExtensionHostConnection] <472> Launched Extension Host Process.
+2024-01-26 21:20:53.787 [info] [127.0.0.1][e72510dc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-26 21:20:53.834 [info] [127.0.0.1][8599e614][ExtensionHostConnection] <472> Extension Host Process exited with code: 0, signal: null.
