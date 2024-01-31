@@ -199,3 +199,58 @@ sudo service postgresql start
 sudo service postgresql status
 sudo -u postgres psql
 psql -U msegfilph -d default
+whoami
+sudo -u postgres psql
+sudo service postgresql status
+sudo service postgresql start
+psql -U postgres -h localhost
+psql -U msegfilph -h localhost
+whoami
+psql -U msegfilph
+psql -U msegfilph -h localhost
+whoami
+sudo service postgresql restart
+sudo -u postgres psql
+sudo -u msegfilph psql
+sudo -u postgres psql
+git add -a
+git add -A
+git commit -m "Uploads activity for creating new table. Lesson: Database Fundamentals."
+git push origin master
+git add -A
+it commit -m "Uploads activity for creating new table. Edits middle_name to blank as per instructions. Lesson: Database Fundamentals."
+Git commit -m "Uploads activity for creating new table. Edits middle_name to blank as per instructions. Lesson
+: Database Fundamentals."
+git commit -m "Uploads activity for creating new table. Reverts middle_name to blank as per instructions. Lesson: Database Fundamentals."
+git push origin master
+s
+ls
+cd database
+cd workspace
+database
+cd database
+git commit -A
+git add -A
+git commit -m "Adds the solution for Activity 1.b"
+git push origin master
+psql -U msegfilph
+psql -U msegfilph -d default
+psql -U msegfilph -d default -h localhost
+psql -h 127.0.0.1 -p 5432 -U postgres -W
+\q
+cd ~
+start-pg
+run-pg
+clear
+sudo service postgresql start
+sudo service postgresql status
+sudo -u postgres psql
+sudo -u msegfilph psql
+sudo -u postgres psql
+clear
+sudo -u postgres psql
+clear
+sudo service postgresql start
+sudo service postgresql status
+sudo -u postgres psql
+psql -h 127.0.0.1 -p 5432 -U postgres -W

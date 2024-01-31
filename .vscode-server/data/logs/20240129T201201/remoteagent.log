@@ -7,3 +7,12 @@
 2024-01-29 20:12:02.221 [info] [127.0.0.1][b847de26][ManagementConnection] New connection established.
 2024-01-29 20:12:02.543 [info] [127.0.0.1][b4b4a8ac][ExtensionHostConnection] New connection established.
 2024-01-29 20:12:02.546 [info] [127.0.0.1][b4b4a8ac][ExtensionHostConnection] <3423> Launched Extension Host Process.
+2024-01-29 21:20:45.337 [info] Getting Manifest... ckolkman.vscode-postgres
+2024-01-29 21:20:50.656 [info] Installing extension: ckolkman.vscode-postgres
+2024-01-29 21:22:55.264 [warning] Extension signature verification failed with error 'ENOENT': ckolkman.vscode-postgres
+2024-01-29 21:22:55.767 [info] Extracted extension to file:///home/msegfilph/.vscode-server/extensions/ckolkman.vscode-postgres-1.4.3: ckolkman.vscode-postgres
+2024-01-29 21:22:55.776 [info] Renamed to /home/msegfilph/.vscode-server/extensions/ckolkman.vscode-postgres-1.4.3
+2024-01-29 21:22:55.777 [info] Extracting extension completed. ckolkman.vscode-postgres
+2024-01-29 21:22:55.784 [info] Extension installed successfully: ckolkman.vscode-postgres
+2024-01-29 21:30:34.819 [info] [127.0.0.1][b847de26][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-29 21:30:34.872 [info] [127.0.0.1][b4b4a8ac][ExtensionHostConnection] <3423> Extension Host Process exited with code: 0, signal: null.
