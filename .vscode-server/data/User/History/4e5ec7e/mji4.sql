@@ -57,8 +57,7 @@ INSERT INTO research_papers (student_id, grade) VALUES
 (4, NULL), -- 2 of 2 students with an ungraded research paper
 (5, 'B'),
 (5, 'C'); -- 2 of 2 students with more than 1 research paper
-(999, NULL); -- EXPERIMENT: student_id not in s table
-(3, 'PASSED'); -- EXPERIMENT: violates CHECK constraints
+(25, 'A'); -- Not in s table
 
 SELECT s.first_name, s.last_name, COUNT(rp.id) AS number_of_research_papers
 FROM students s

@@ -254,3 +254,26 @@ sudo service postgresql start
 sudo service postgresql status
 sudo -u postgres psql
 psql -h 127.0.0.1 -p 5432 -U postgres -W
+cd
+workspace
+ls
+exercises
+ls
+cd exercises
+workspace
+ls
+cd workspace
+cd exercises
+ruby isogram.rb
+git add -A
+cd workspace
+cd
+ls
+git add -A
+git commit -m "Uploads the solution for the Isogram activity. Uploads the solution for the JOINS activity." 
+git push origin master
+whoami
+sudo service postgresql start
+sudo service postgresql status
+sudo service postgresql start
+sudo service postgresql status
