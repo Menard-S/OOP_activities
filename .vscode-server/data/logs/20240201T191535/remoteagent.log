@@ -7,3 +7,5 @@
 2024-02-01 19:15:36.004 [info] [127.0.0.1][60ac5500][ManagementConnection] New connection established.
 2024-02-01 19:15:36.394 [info] [127.0.0.1][046a1ed4][ExtensionHostConnection] New connection established.
 2024-02-01 19:15:36.398 [info] [127.0.0.1][046a1ed4][ExtensionHostConnection] <567> Launched Extension Host Process.
+2024-02-01 21:09:05.474 [info] [127.0.0.1][60ac5500][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-01 21:09:05.562 [info] [127.0.0.1][046a1ed4][ExtensionHostConnection] <567> Extension Host Process exited with code: 0, signal: null.

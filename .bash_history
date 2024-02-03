@@ -277,3 +277,18 @@ sudo service postgresql start
 sudo service postgresql status
 sudo service postgresql start
 sudo service postgresql status
+sudo service postgresql start
+12345
+sudo service postgresql status
+cd
+cd workspace
+cd exercises
+ruby unique_in_order.rb
+clear
+ruby unique_in_order.rb
+clear
+ruby unique_in_order.rb
+git add -A
+git commit -m "Uploads the solution for the unique_in_order activity."
+git push origin master
+sudo service postgresql status
