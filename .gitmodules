@@ -1,0 +1,3 @@
+[submodule "workspace/exercises/blog"]
+	path = workspace/exercises/blog
+	url = https://github.com/Menard-S/blog.git
